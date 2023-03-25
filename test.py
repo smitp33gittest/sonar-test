@@ -1,5 +1,6 @@
 def main2():
-    print("Hello World!")
+    return 1
+    1 == 1
 
 def main():
     print("Hello World!")
