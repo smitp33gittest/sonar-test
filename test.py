@@ -1,5 +1,4 @@
 def main3():
-#this function empty
     pass
 
 def main2():
