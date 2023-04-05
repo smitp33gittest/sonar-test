@@ -1,3 +1,6 @@
+def main3():
+    pass
+
 def main2():
     print("Hello World!")
 
